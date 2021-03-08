@@ -1,4 +1,4 @@
-### Hi there 👋
+### Anton Telyshev (Антон Телышев)
 
 <b>Lead Go Developer</b> at https://softpro.com/. 
 Look my way at [Linkedin](https://www.linkedin.com/in/antonboom/).
