@@ -1,6 +1,6 @@
 ### Anton Telyshev (Антон Телышев)
 
-<b>Lead Go Developer</b> at https://softpro.com/. 
+<b>Solution Architect (ex Lead Go Developer)</b> at [Exness](https://exness.trade/). 
 Look my way at [Linkedin](https://www.linkedin.com/in/antonboom/).
 
 ---
