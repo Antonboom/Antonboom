@@ -1,15 +1,13 @@
 ### Anton Telyshev (Антон Телышев)
 
-<b>Solution Architect (ex Lead Go Developer)</b> at [Exness](https://exness.trade/). 
-Look my way at [Linkedin](https://www.linkedin.com/in/antonboom/).
+<b>Solution Architect (ex Lead Go Developer)</b> at [Exness](https://exness.trade/) 💹 <br>
+Look my way at [Linkedin](https://www.linkedin.com/in/antonboom/) 👨‍💻
 
 ---
 
-Author and teacher ["Go in Practice"](https://www.golang-courses.ru/) online courses:
+Author and teacher of [«GOLANG NINJA»](https://golang-ninja.ru/) online courses:
 
-<img src="https://static.wixstatic.com/media/8d98a4_d3a7e2d5d4f44cdd99bc835b200e2978~mv2.png" height="150" />
-
-https://www.golang-courses.ru/
+[<img src="https://static.tildacdn.com/tild6230-6538-4265-b231-353430666664/2rr.svg" height="150" />](https://golang-ninja.ru/)
 
 ---
 
